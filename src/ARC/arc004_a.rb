@@ -1,3 +1,6 @@
+# AtCoder Regular Contest 004
+# A - 2点間距離の最大値 ( The longest distance )
+# https://atcoder.jp/contests/arc004/tasks/arc004_1
 N = gets.chomp.split.map(&:chomp).map(&:to_i)
 @points = readlines.map{|l| l.chomp.split.map(&:to_i)}
 
