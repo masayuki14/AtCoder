@@ -1,3 +1,6 @@
+# AtCoder Beginner Contest 209
+# B - Can you buy them all? 
+# https://atcoder.jp/contests/abc209/tasks/abc209_b
 (N, X) = gets.chomp.split.map(&:to_i)
 A = gets.chomp.split.map(&:to_i)
 
