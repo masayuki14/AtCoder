@@ -1,6 +1,6 @@
 # AtCoder Beginner Contest 190
 # C - Bowls and Dishes
-# https://atcoder.jp/contests/abc186/tasks/abc190_c
+# https://atcoder.jp/contests/abc190/tasks/abc190_c
 (N, M) = gets.chomp.split.map(&:to_i)
 AB = []
 M.times do
